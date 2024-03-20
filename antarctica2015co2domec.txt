@@ -1,0 +1,839 @@
+﻿depth_m	age_gas_calBP	age_gas_calBP	co2_ppm	co2_1s_ppm	notes
+102.83	137.00	350.11	280.40	1.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+106.89	268.00	486.69	274.90	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+107.20	279.00	501.20	277.90	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+110.25	395.00	539.65	279.10	1.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+110.50	404.00	539.89	281.90	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+113.27	485.00	657.69	277.70	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+115.48	559.00	762.16	281.10	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+118.62	672.00	867.61	282.20	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+121.50	754.00	961.07	280.10	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+124.82	877.00	1109.50	278.40	1.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+127.02	950.00	1168.29	276.60	1.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+129.75	1060.00	1256.85	279.10	1.00	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+132.50	1153.00	1315.27	277.70	1.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+134.72	1233.00	1387.27	278.70	1.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+138.02	1350.00	1477.17	277.40	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+141.30	1453.00	1653.13	279.20	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+144.05	1552.00	1729.03	280.00	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+146.27	1638.00	1816.60	278.90	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+149.02	1733.00	1901.97	278.70	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+151.20	1812.00	1999.71	278.00	1.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+154.50	1931.00	2093.36	276.90	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+157.82	2057.00	2234.24	276.70	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+160.03	2128.00	2265.55	276.70	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+162.17	2212.00	2414.32	277.60	1.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+165.52	2334.00	2526.12	277.90	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+168.28	2433.00	2628.02	273.90	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+171.00	2536.00	2708.48	278.90	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+173.14	2604.00	2801.76	275.30	1.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+176.52	2728.00	2904.55	274.70	1.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+178.72	2806.00	2948.82	276.30	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+181.45	2902.00	3056.60	274.60	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+185.85	3053.00	3255.73	276.30	1.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+187.52	3116.00	3283.66	273.10	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+189.72	3215.00	3431.12	274.00	0.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+193.00	3336.00	3528.29	275.00	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+196.30	3453.00	3644.46	273.40	1.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+198.52	3523.00	3693.41	273.00	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+201.28	3622.00	3806.86	271.50	1.00	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+204.00	3721.00	3856.17	275.40	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+206.20	3790.00	3968.95	274.90	1.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+209.52	3910.00	4108.67	271.70	1.00	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+212.27	4004.00	4205.84	271.60	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+215.00	4096.00	4275.08	272.80	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+216.65	4161.00	4342.82	271.50	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+221.05	4324.00	4494.36	271.10	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+222.72	4374.00	4592.82	269.10	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+225.48	4480.00	4647.46	269.80	1.00	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+228.20	4573.00	4773.00	271.50	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+232.05	4703.00	4921.20	270.70	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+233.72	4766.00	4981.58	269.30	1.00	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+236.47	4874.00	5086.79	268.60	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+240.27	5004.00	5218.57	269.80	1.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+242.50	5094.00	5311.18	267.60	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+244.72	5160.00	5357.55	265.30	1.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+248.02	5274.00	5533.29	265.20	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+250.72	5370.00	5581.30	267.60	2.00	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+253.50	5476.00	5757.61	265.90	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+256.27	5562.00	5852.26	265.50	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+259.02	5657.00	5934.09	260.70	1.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+260.65	5716.00	5999.38	266.70	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+264.50	5855.00	6089.81	265.50	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+268.37	5998.00	6301.96	263.20	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+269.42	6039.00	6337.21	262.70	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+272.20	6131.00	6401.24	261.20	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+276.07	6263.00	6572.29	261.10	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+278.27	6354.00	6682.55	259.40	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+280.53	6434.00	6769.65	262.10	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+283.72	6545.00	6880.31	262.90	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+285.97	6617.00	6970.08	258.10	1.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+288.17	6713.00	7038.27	257.60	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+292.00	6838.00	7188.07	262.30	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+294.75	6941.00	7274.01	263.00	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+297.52	7028.00	7405.32	260.70	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+299.72	7112.00	7497.87	258.40	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+303.00	7234.00	7661.37	260.10	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+305.75	7320.00	7719.59	260.40	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+308.52	7413.00	7860.18	259.70	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+311.26	7507.00	7926.37	259.20	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+314.00	7590.00	7975.85	260.80	1.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+316.75	7691.00	8116.28	259.60	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+319.52	7781.00	8194.80	259.30	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+322.27	7876.00	8351.88	258.30	1.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+325.00	7990.00	8459.68	261.30	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+326.55	8050.00	8546.58	260.70	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+330.50	8181.00	8710.68	261.80	1.00	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+333.27	8281.00	8781.28	259.00	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+336.02	8387.00	8911.85	260.90	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+338.65	8477.00	8992.99	260.40	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+341.50	8579.00	9060.17	259.30	1.00	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+343.72	8653.00	9143.01	262.00	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+347.02	8784.00	9295.31	263.70	1.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+349.75	8869.00	9361.12	263.80	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+352.58	8973.00	9436.70	265.20	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+355.82	9092.00	9518.06	260.60	1.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+357.47	9140.00	9524.44	260.90	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+360.20	9232.00	9555.86	263.00	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+362.98	9317.00	9573.27	263.80	1.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+369.55	9536.00	9901.04	264.40	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+371.23	9597.00	9992.61	264.20	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+375.05	9721.00	10134.50	264.00	0.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+377.27	9807.00	10192.95	263.40	0.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+380.00	9909.00	10299.55	265.70	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+382.22	9983.00	10366.56	264.90	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+385.13	10088.00	10505.55	267.50	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+388.23	10209.00	10680.48	266.90	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+390.45	10294.00	10801.81	266.00	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+393.78	10417.00	10835.74	265.10	1.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+396.50	10527.00	10954.48	267.60	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+399.28	10621.00	11089.62	264.80	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+402.00	10744.00	11161.06	264.80	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+404.19	10805.00	11185.87	265.00	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+404.78	10827.00	11200.58	265.30	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+406.39	10895.00	11256.57	264.40	1.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+407.50	10933.00	11316.98	264.10	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+409.70	11014.00	11437.70	264.20	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+411.38	11087.00	11515.26	264.50	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+413.03	11136.00	11529.66	264.00	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+414.75	11201.00	11534.10	263.00	1.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+415.73	11236.00	11537.37	265.20	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+417.07	11278.00	11540.76	258.80	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+418.53	11338.00	11548.38	260.80	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+420.49	11392.00	11612.22	255.40	0.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+421.80	11436.00	11688.03	253.90	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+422.90	11469.00	11753.75	253.80	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+426.10	11580.00	11940.54	250.70	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+427.33	11635.00	12017.84	249.70	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+428.30	11676.00	12078.12	251.10	0.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+429.50	11727.00	12154.81	250.70	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+431.73	11819.00	12313.15	245.30	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+433.79	11896.00	12404.35	245.30	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+435.00	11958.00	12442.46	246.60	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+437.23	12050.00	12507.83	243.20	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+438.85	12122.00	12579.48	240.30	0.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+443.80	12371.00	12822.31	237.50	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+446.03	12496.00	12952.88	237.60	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+448.75	12642.00	13199.16	234.20	0.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+450.98	12760.00	13436.52	238.30	1.10	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+454.25	12942.00	13626.91	237.30	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+457.03	13090.00	13726.49	237.90	0.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+459.90	13241.00	13912.00	237.60	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+463.63	13440.00	14188.66	236.40	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+465.25	13542.00	14248.77	239.20	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+467.45	13653.00	14262.34	238.60	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+470.20	13804.00	14385.88	238.60	0.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+473.06	13948.00	14580.80	239.10	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+479.71	14303.00	14811.11	228.50	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+484.10	14550.00	15137.32	228.40	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+487.25	14725.00	15421.77	226.10	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+490.03	14890.00	15657.26	225.20	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+492.20	15012.00	15790.43	224.50	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+496.07	15233.00	15936.96	222.00	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+499.35	15438.00	16063.84	221.00	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+501.58	15570.00	16133.91	220.90	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+504.20	15742.00	16396.39	219.40	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+506.53	15886.00	16723.10	214.00	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+509.25	16073.00	16971.38	207.50	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+512.03	16260.00	17155.36	207.70	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+514.75	16452.00	17288.43	202.90	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+517.53	16659.00	17395.16	200.80	1.00	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+520.25	16870.00	17708.47	195.20	0.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+523.03	17111.00	18212.71	193.90	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+526.30	17375.00	18499.21	191.00	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+528.53	17565.00	18639.53	188.50	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+531.25	17809.00	18908.21	188.50	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+532.93	17943.00	19113.55	189.20	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+536.75	18285.00	19438.10	187.00	0.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+539.53	18541.00	19605.70	188.60	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+542.90	18828.00	19827.75	189.40	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+543.35	18868.00	19852.45	192.30	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+543.93	18921.00	19884.30	188.30	0.60	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+548.85	19347.00	20143.95	188.70	0.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+550.51	19509.00	20224.51	188.80	0.50	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+553.25	19748.00	20484.78	190.00	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+556.03	19988.00	20818.42	188.00	0.90	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+557.89	20168.00	21066.11	188.20	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+558.20	20197.00	21110.51	195.00	0.70	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+561.53	20502.00	21426.99	187.80	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+564.26	20748.00	21577.91	186.90	0.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+567.03	21011.00	21718.17	186.50	0.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+569.75	21257.00	21823.70	184.70	1.20	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+572.53	21507.00	21936.79	186.10	0.40	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+576.33	21854.00	22133.25	185.70	1.30	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+578.11	22015.00	22236.43	184.40	0.80	Dome C (0-22 kyr BP)  Monnin et al. (2001+2004) University of Bern
+					
+2761.85	415717.00	415945.61	276.40	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2762.89	416193.00	416425.32	271.70	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2765.08	417191.00	417440.44	273.40	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2766.18	417698.00	417956.78	271.80	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2767.33	418245.00	418505.30	274.60	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2769.48	419260.00	419575.78	273.70	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2770.58	419808.00	420133.76	271.20	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2771.68	420350.00	420701.76	273.80	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2773.88	421484.00	421912.15	268.60	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2774.96	422074.00	422532.65	266.40	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2776.13	422649.00	423225.50	270.60	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2778.28	423764.00	424507.75	267.70	2.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2779.39	424332.00	425132.26	268.30	1.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2780.48	424840.00	425740.91	270.80	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2781.32	425242.00	426237.27	270.00	2.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2781.96	425569.00	426621.56	265.40	2.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2782.73	425975.00	427154.96	255.30	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2783.81	426598.00	427941.40	252.10	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2784.88	427285.00	428840.20	248.20	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2785.27	427566.00	429178.36	242.50	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2787.08	429006.00	431023.76	219.70	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2788.03	429876.00	432179.31	227.20	2.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2789.29	431063.00	433850.30	211.50	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2789.67	431445.00	434379.07	207.60	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2790.78	432599.00	435939.69	209.80	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2791.87	433674.00	437485.42	207.50	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2792.97	434804.00	439063.42	200.30	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2794.08	435989.00	440659.58	201.70	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2795.17	437152.00	442230.78	201.30	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2796.28	438356.00	443844.65	202.00	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2797.38	439565.00	445331.73	199.10	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2798.92	441220.00	447219.18	201.10	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2800.02	442411.00	448459.18	203.50	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2801.13	443562.00	449571.04	208.10	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2802.21	444650.00	450642.89	201.70	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2803.33	445829.00	451747.28	201.20	2.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2804.42	446984.00	452735.84	204.90	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2805.52	448103.00	453775.64	201.90	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2806.62	449244.00	454864.31	198.40	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2807.72	450455.00	456001.61	193.30	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2808.82	451593.00	457114.44	192.50	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2809.46	452283.00	457745.13	199.10	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2809.93	452795.00	458208.29	204.30	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2810.56	453514.00	458794.01	203.30	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2811.01	454023.00	459211.55	208.30	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2812.12	455279.00	460252.21	202.40	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2813.21	456591.00	461286.06	195.50	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2814.32	458049.00	462414.10	190.70	1.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2815.43	459430.00	463526.65	194.40	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2816.52	460792.00	464599.47	199.90	2.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2817.25	461687.00	465265.36	205.20	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2817.62	462133.00	465601.73	210.00	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2818.72	463456.00	466632.30	208.10	2.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2819.83	464866.00	467706.64	204.40	1.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2820.92	466265.00	468877.71	203.40	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2822.01	467602.00	470040.13	205.50	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2822.66	468323.00	470725.98	206.50	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2823.11	468810.00	471200.79	215.50	2.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2823.76	469470.00	471824.53	218.70	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2824.22	469941.00	472263.07	229.20	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2824.86	470597.00	472863.27	232.70	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2825.31	471046.00	473217.82	243.70	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2826.05	471763.00	473800.85	243.90	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2826.42	472095.00	474092.36	245.60	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2827.53	473102.00	474974.11	241.20	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2828.63	474162.00	475925.20	233.10	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2829.72	475218.00	476949.80	232.80	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2830.82	476240.00	477941.00	236.60	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2831.93	477162.00	478892.46	239.10	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2832.56	477719.00	479402.95	236.50	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2833.02	478124.00	479775.69	231.30	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2833.66	478721.00	480328.30	220.80	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2834.12	479144.00	480726.68	218.80	2.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2835.22	480108.00	481662.96	223.80	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2836.32	481035.00	482580.96	223.40	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2837.43	481932.00	483395.38	227.30	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2838.53	482803.00	484179.79	231.40	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2839.62	483649.00	484936.18	231.40	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2840.71	484465.00	485667.52	231.20	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2841.81	485276.00	486398.67	233.00	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2842.92	486043.00	487129.25	232.90	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2844.02	486816.00	487848.07	231.30	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2845.11	487541.00	488565.45	237.10	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2846.22	488268.00	489302.09	242.00	0.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2846.86	488689.00	489719.79	240.90	0.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2847.33	488996.00	490026.29	252.80	2.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2848.05	489475.00	490494.91	249.30	2.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2848.42	489722.00	490733.95	242.60	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2849.53	490445.00	491451.08	243.30	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2850.63	491191.00	492154.55	246.70	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2851.72	491959.00	492863.78	243.70	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2852.82	492738.00	493593.11	239.70	1.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2853.91	493507.00	494300.39	239.10	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2855.03	494311.00	495024.13	238.30	2.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2856.12	495085.00	495725.69	238.50	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2857.22	495853.00	496444.07	237.60	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2858.32	496608.00	497187.63	236.40	2.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2859.43	497366.00	497965.98	236.50	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2860.51	498104.00	498737.42	232.80	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2861.62	498865.00	499526.78	230.60	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2862.72	499610.00	500304.78	230.80	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2863.83	500363.00	501083.96	228.20	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2864.93	501130.00	501861.42	230.80	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2866.02	501866.00	502637.64	231.20	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2867.13	502625.00	503418.93	232.00	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2868.23	503375.00	504177.19	232.20	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2869.32	504083.00	504911.78	234.10	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2870.42	504777.00	505684.24	233.90	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2871.52	505516.00	506483.73	235.50	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2872.62	506287.00	507312.40	236.00	2.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2873.72	507011.00	508117.72	238.20	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2874.82	507714.00	508940.98	237.00	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2875.92	508476.00	509784.98	240.30	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2877.02	509247.00	510652.33	233.40	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2878.12	510008.00	511512.45	236.40	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2879.22	510765.00	512363.78	235.20	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2880.32	511515.00	513204.74	242.00	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2881.42	512269.00	514033.12	238.20	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2882.52	512997.00	514847.78	239.20	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2883.62	513724.00	515650.78	241.50	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2884.72	514429.00	516420.98	243.00	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2885.82	515113.00	517154.98	247.20	2.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2886.92	515771.00	517876.01	246.20	2.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2888.02	516417.00	518600.46	245.50	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2889.12	517069.00	519329.13	245.30	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2890.22	517706.00	520073.36	247.70	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2891.32	518334.00	520821.81	245.50	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2892.42	518965.00	521574.47	243.50	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2895.71	520892.00	523801.82	241.90	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2896.82	521552.00	524570.87	236.80	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2897.92	522216.00	525337.00	235.80	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2899.02	522923.00	526107.00	233.70	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2900.12	523666.00	526895.81	230.30	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2901.22	524409.00	527698.69	227.80	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2902.32	525164.00	528516.69	224.70	1.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2903.42	525908.00	529403.43	222.70	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2904.51	526661.00	530290.51	221.20	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2905.62	527454.00	531201.38	220.30	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2906.72	528262.00	532078.76	220.70	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2907.36	528747.00	532592.53	214.50	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2907.82	529101.00	532987.57	211.40	2.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2908.48	529640.00	533554.37	204.40	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2908.92	530016.00	533932.24	200.00	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2909.65	530685.00	534668.18	195.10	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2910.02	531035.00	535043.56	193.80	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2910.66	531662.00	535695.05	190.50	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2911.12	532119.00	536178.47	199.80	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2912.22	533246.00	537334.47	199.40	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2913.33	534364.00	538440.76	205.00	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2914.42	535483.00	539513.82	206.40	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2915.52	536622.00	540583.82	212.90	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2916.62	537770.00	541653.82	211.20	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2917.72	538959.00	542740.21	205.00	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2918.82	540154.00	543844.87	203.60	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2919.92	541345.00	544885.99	208.10	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2921.00	542502.00	545864.91	210.30	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2922.12	543676.00	546830.15	209.60	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2923.22	544804.00	547806.68	209.70	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2924.32	545956.00	548770.78	204.60	1.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2925.42	547013.00	549720.11	202.50	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2926.07	547573.00	550230.73	208.80	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2926.52	547972.00	550582.55	213.60	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2927.62	548933.00	551381.09	215.20	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2928.72	549830.00	552111.09	219.90	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2929.82	550637.00	552681.56	221.70	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2930.48	551124.00	553020.92	222.30	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2930.92	551452.00	553245.99	226.30	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2931.65	551979.00	553619.39	222.10	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2932.02	552250.00	553808.65	220.30	0.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2933.12	552961.00	554479.62	223.60	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2934.22	553626.00	555158.35	224.30	2.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2935.32	554254.00	555842.35	226.70	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2936.42	554831.00	556407.02	233.90	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2937.52	555345.00	556923.29	241.00	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2938.17	555637.00	557198.65	243.00	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2938.61	555839.00	557385.05	249.10	2.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2939.27	556143.00	557657.14	244.00	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2939.71	556364.00	557838.21	250.50	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2940.47	556724.00	558154.56	245.60	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2940.82	556889.00	558306.02	240.40	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2941.91	557385.00	558777.69	238.10	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2943.01	557887.00	559316.01	234.50	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2943.66	558183.00	559636.76	229.70	0.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2944.12	558393.00	559872.62	230.20	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2945.22	558929.00	560436.62	230.30	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2946.32	559461.00	560965.60	228.30	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2947.42	559972.00	561450.74	231.60	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2948.52	560459.00	561888.07	231.90	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2949.62	560930.00	562310.49	234.60	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2950.53	561309.00	562655.60	234.10	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2951.82	561846.00	563134.85	240.10	2.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2952.92	562272.00	563535.74	242.30	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2954.02	562690.00	563927.90	245.70	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2955.12	563115.00	564310.56	245.80	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2956.22	563517.00	564724.36	247.60	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2957.32	563918.00	565134.30	251.40	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2958.42	564311.00	565538.96	252.40	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2959.52	564699.00	565895.64	252.60	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2960.62	565077.00	566245.30	251.40	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2961.72	565466.00	566588.64	253.70	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2962.82	565851.00	566918.35	254.30	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2963.92	566233.00	567239.49	253.90	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2965.01	566619.00	567548.65	254.50	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2966.12	567007.00	567884.89	253.20	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2967.19	567381.00	568204.14	253.90	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2968.32	567777.00	568534.24	252.80	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2969.42	568167.00	568930.15	253.00	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2970.52	568556.00	569314.59	250.20	0.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2971.62	568946.00	569683.93	251.30	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2972.71	569331.00	570067.25	250.00	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2973.82	569728.00	570463.46	251.30	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2974.92	570139.00	570862.13	251.80	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2976.02	570548.00	571261.44	251.80	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2977.12	570955.00	571633.36	249.60	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2978.22	571367.00	571974.69	251.60	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2979.32	571775.00	572314.73	250.30	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2980.41	572190.00	572669.87	246.30	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2981.52	572619.00	573052.65	247.70	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2982.62	573037.00	573474.79	249.20	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2983.72	573462.00	573911.99	248.70	0.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2984.82	573902.00	574364.65	251.80	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2985.92	574353.00	574805.00	251.90	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2987.02	574803.00	575234.92	252.10	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2988.12	575265.00	575653.58	248.90	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2989.22	575730.00	576111.81	252.50	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2990.32	576222.00	576597.93	252.90	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2991.42	576723.00	577113.93	251.30	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2992.52	577242.00	577652.62	251.30	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2993.62	577769.00	578195.11	251.10	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2994.72	578305.00	578741.11	249.10	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2995.82	578857.00	579279.33	252.90	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2996.92	579435.00	579831.82	251.50	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2997.65	579821.00	580209.21	244.10	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2998.02	580019.00	580400.49	243.80	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2998.66	580400.00	580815.64	236.20	0.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2999.12	580695.00	581117.01	230.30	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+2999.76	581160.00	581546.53	225.20	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3000.22	581507.00	581926.24	219.40	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3000.86	582000.00	582454.53	215.40	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3001.32	582391.00	582834.24	209.90	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3002.05	583034.00	583576.82	206.70	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3002.42	583413.00	583956.24	210.60	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3005.26	586406.00	586720.84	224.00	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3005.72	586893.00	587169.41	226.00	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3006.45	587647.00	587891.27	234.40	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3006.82	588034.00	588276.75	238.80	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3007.46	588716.00	588943.51	246.30	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3007.92	589224.00	589422.75	250.20	0.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3008.56	589868.00	590042.56	248.10	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3009.02	590335.00	590486.39	243.60	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3009.57	590893.00	591017.05	237.40	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3010.85	592279.00	592386.15	225.70	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3011.22	592697.00	592782.84	229.40	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3011.87	593415.00	593558.25	233.20	0.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3012.28	593870.00	594049.75	238.10	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3012.96	594639.00	594866.89	238.00	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3013.42	595189.00	595433.39	232.90	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3014.06	595950.00	596221.56	221.20	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3014.52	596515.00	596788.05	216.40	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3015.25	597443.00	597807.12	216.30	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3015.62	597966.00	598326.24	219.00	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3016.26	598833.00	599218.22	226.00	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3016.72	599434.00	599817.89	229.40	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3017.82	600882.00	601251.89	232.50	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3018.92	602278.00	602597.70	237.90	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3020.02	603673.00	603946.07	239.10	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3021.12	605076.00	605300.07	244.50	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3022.19	606374.00	606622.82	248.50	1.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3023.32	607708.00	607976.42	254.60	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3024.42	608929.00	609244.42	259.20	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3025.52	610136.00	610426.82	257.70	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3026.62	611319.00	611597.99	259.60	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3027.72	612514.00	612759.33	258.00	1.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3028.82	613709.00	613940.12	256.00	0.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3029.92	614923.00	615137.84	252.50	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3031.02	616227.00	616353.84	252.40	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3032.09	617544.00	617606.64	252.30	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3033.22	618955.00	618950.73	247.90	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3034.32	620338.00	620280.73	245.40	0.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3035.42	621760.00	621648.34	243.00	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3036.52	623214.00	623051.67	238.60	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3037.62	624690.00	624493.67	237.30	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3038.26	625570.00	625394.39	234.30	0.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3038.72	626215.00	626043.97	227.80	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3039.36	627211.00	626974.05	214.90	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3039.82	627999.00	627825.47	205.00	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3040.53	629446.00	629139.62	198.70	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3040.92	630295.00	629861.47	199.90	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3041.65	632001.00	631532.09	199.50	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3042.01	632856.00	632362.71	195.60	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3042.74	634592.00	634068.32	192.10	1.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3043.12	635489.00	635002.88	193.90	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3043.74	636957.00	636527.71	193.00	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3044.22	638127.00	637708.22	194.30	1.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3044.93	639848.00	639424.30	187.70	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3045.32	640760.00	640366.21	189.10	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3046.05	642405.00	642079.82	190.20	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3046.42	643204.00	642851.44	190.40	1.10	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3047.12	644662.00	644311.25	194.10	1.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3047.52	645470.00	645145.44	194.60	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3048.16	646723.00	646372.18	188.60	2.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3048.62	647588.00	647250.08	190.50	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3049.36	648946.00	648612.42	192.10	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3049.72	649598.00	649187.11	194.80	0.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3050.45	650891.00	650352.45	187.80	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3050.82	651556.00	650943.11	192.00	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3051.55	652802.00	652112.27	185.80	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3051.92	653448.00	652704.95	185.30	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3052.56	654473.00	653726.40	191.30	1.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3053.02	655202.00	654434.80	193.20	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3053.73	656286.00	655528.20	198.40	0.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3054.12	656882.00	656128.80	198.70	0.70	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3054.85	657923.00	657184.70	191.30	0.60	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3055.22	658474.00	657718.39	189.20	0.90	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3055.93	659524.00	658768.20	182.40	0.30	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3056.32	660084.00	659407.80	183.90	0.40	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3056.96	660981.00	660457.40	186.60	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3057.42	661650.00	661211.80	189.80	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3058.13	662669.00	662285.95	187.80	1.50	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3058.52	663206.00	662873.78	189.00	1.00	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3059.25	664192.00	663940.73	189.10	1.20	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+3059.61	664690.00	664403.27	185.80	0.80	Dome C (393-664 kyr BP) Siegenthaler et al. (2005) University of Bern
+					
+2700.77	392544.00	392977.15	259.50		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2702.97	393579.00	394003.69	273.60		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2705.17	394560.00	394906.10	260.70		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2713.97	398086.00	398275.13	276.30		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2718.37	399722.00	399926.16	277.10		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2720.57	400504.00	400710.08	283.20		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2724.97	402000.00	402140.92	283.10		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2727.17	402731.00	402859.84	275.70		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2731.57	404181.00	404313.30	276.50		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2733.77	404927.00	405062.63	280.50		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2738.17	406368.00	406542.80	279.60		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2740.37	407093.00	407282.50	285.60		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2744.77	408600.00	408818.72	284.50		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2746.97	409383.00	409598.24	275.20		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2746.97	409383.00	409598.24	274.20		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2749.17	410206.00	410453.80	282.60		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2751.37	411071.00	411347.97	283.50		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2755.77	412962.00	413258.65	274.90		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2757.97	413948.00	414210.86	264.90		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2760.17	414963.00	415179.59	271.60		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2762.37	415955.00	416184.85	276.20		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2764.57	416965.00	417203.68	268.50		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2766.77	417979.00	418234.98	277.70		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2768.97	419013.00	419318.31	273.30		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2771.17	420107.00	420438.42	268.90		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2775.57	422374.00	422889.84	276.60		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2775.57	422374.00	422889.84	274.30		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2777.77	423491.00	424204.53	270.90		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2779.97	424604.00	425451.08	273.70		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2782.17	425678.00	426767.04	257.70		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+2784.37	426953.00	428411.80	254.10		Dome C (393-664 kyr BP) Siegenthaler et al. (2005) LGGE Grenoble
+					
+3026.58	611269.00	611555.76	257.80	2.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3030.97	616164.00	616298.56	252.60	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3036.44	623109.00	622946.80	243.30	2.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3040.87	630183.00	629768.93	204.40	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3043.07	635364.00	634879.92	195.00	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3055.18	658404.00	657660.70	187.50	1.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3056.25	659983.00	659293.00	185.60	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3057.36	661563.00	661113.40	192.10	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3058.47	663133.00	662798.42	192.00	2.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3059.55	664597.00	664326.18	190.60	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3060.33	665645.00	665328.36	178.20	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3060.73	666174.00	665842.30	178.50	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3061.36	666995.00	666750.47	172.70	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3061.82	667569.00	667415.93	171.60	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3062.53	668447.00	668418.41	175.60	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3062.93	668934.00	668921.19	178.50	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3063.64	669751.00	669813.64	185.50	0.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3064.02	670176.00	670291.29	189.30	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3064.76	670916.00	671076.01	192.60	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3065.12	671286.00	671454.77	194.60	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3065.76	671926.00	672144.89	192.50	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3066.22	672386.00	672757.39	194.80	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3066.93	673095.00	673702.76	198.70	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3067.33	673475.00	674235.37	202.30	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3068.07	674173.00	675030.00	209.20	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3068.42	674521.00	675403.33	213.70	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3069.52	675589.00	676527.82	220.00	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3070.16	676170.00	677150.36	217.40	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3070.62	676524.00	677597.82	214.00	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3071.33	677068.00	678333.38	215.60	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3071.72	677380.00	678738.50	217.40	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3072.44	677984.00	679451.81	226.50	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3072.80	678291.00	679736.76	230.00	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3073.53	678914.00	680314.56	230.80	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3073.93	679252.00	680631.17	230.30	1.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3074.56	679732.00	681228.53	223.00	1.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3075.02	680081.00	681667.07	225.00	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3075.73	680608.00	682348.66	218.40	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3076.13	680920.00	682744.54	216.20	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3076.85	681531.00	683457.12	217.30	1.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3077.23	681849.00	683833.21	219.70	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3077.93	682446.00	684427.91	222.60	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3078.32	682762.00	684757.64	221.30	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3078.96	683262.00	685297.31	218.70	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3079.43	683612.00	685683.56	217.50	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3080.14	684142.00	686267.05	217.50	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3080.52	684419.00	686579.35	219.40	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3081.25	684949.00	687151.70	219.50	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3081.63	685217.00	687449.02	219.70	1.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3082.34	685716.00	688004.28	223.50	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3082.72	685980.00	688300.92	224.40	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3083.37	686425.00	688808.31	224.30	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3083.82	686726.00	689159.58	227.30	1.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3084.56	687227.00	689695.06	228.70	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3084.92	687470.00	689954.70	228.80	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3085.65	687949.00	690476.73	232.30	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3086.03	688195.00	690739.50	233.00	0.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3086.73	688652.00	691223.56	235.80	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3087.08	688881.00	691465.59	234.90	1.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3087.76	689304.00	691970.21	235.80	2.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3088.23	689603.00	692321.71	239.90	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3088.93	690057.00	692834.12	235.60	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3089.30	690294.00	693079.21	234.80	2.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3090.05	690771.00	693576.03	240.00	2.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3090.42	690999.00	693821.13	234.00	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3091.13	691432.00	694281.97	235.60	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3091.52	691672.00	694534.88	236.60	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3092.16	692057.00	694951.15	235.50	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3092.62	692338.00	695258.93	235.90	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3093.33	692765.00	695733.98	232.90	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3093.70	692990.00	695981.55	234.80	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3094.45	693433.00	696436.70	234.10	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3094.80	693639.00	696647.55	234.10	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3095.53	694068.00	697091.88	235.40	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3095.92	694300.00	697340.54	234.40	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3096.56	694672.00	697748.59	235.80	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3097.02	694941.00	698041.87	236.90	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3097.74	695383.00	698505.11	236.70	1.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3098.13	695618.00	698756.13	237.60	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3098.85	696062.00	699213.64	234.60	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3099.22	696287.00	699437.21	234.80	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3099.93	696717.00	699866.22	235.40	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3100.32	696963.00	700101.87	232.90	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3100.92	697331.00	700488.25	232.40	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3101.43	697660.00	700817.75	232.20	0.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3102.13	698120.00	701270.15	231.00	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3102.52	698386.00	701522.58	228.00	0.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3103.25	698880.00	701995.09	226.40	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3103.57	699102.00	702202.22	227.70	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3104.33	699633.00	702737.83	227.60	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3104.71	699909.00	703008.21	226.00	0.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3105.36	700389.00	703470.65	228.70	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3105.82	700744.00	703797.67	227.60	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3106.46	701242.00	704252.65	228.20	0.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3106.92	701606.00	704579.67	228.80	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3107.64	702158.00	705055.98	229.30	0.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3107.93	702381.00	705247.21	230.30	1.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3108.65	702988.00	705723.82	232.40	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3109.12	703384.00	706051.11	232.80	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3109.75	703934.00	706489.82	231.20	1.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3110.07	704211.00	706712.65	231.20	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3110.88	704973.00	707311.07	233.90	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3111.32	705410.00	707641.47	228.50	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3112.05	706141.00	708200.09	228.60	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3112.31	706409.00	708413.45	228.10	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3112.98	707094.92	708959.15	229.80	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3113.58	707762.40	709453.79	226.30	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3114.08	708322.20	709909.55	225.40	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3114.68	709006.20	710456.45	221.90	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3115.25	709680.00	710979.36	219.70	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3115.72	710237.00	711396.38	220.20	0.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3116.42	711104.00	712017.47	218.90	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3116.68	711421.00	712248.16	218.70	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3117.81	712833.00	713310.13	218.50	0.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3118.60	713843.00	714063.61	222.30	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3118.95	714288.00	714408.73	221.70	2.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3119.67	715180.00	715118.69	217.70	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3120.12	715750.00	715562.42	222.10	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3120.85	716704.00	716305.58	208.10	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3121.13	717065.00	716591.01	205.00	1.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3121.86	718064.00	717352.18	192.90	1.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3122.32	718779.00	717951.58	184.30	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3122.95	719794.00	718772.48	187.80	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3123.35	720337.00	719293.70	195.20	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3124.06	721318.00	720090.56	206.30	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3124.52	722039.00	720593.22	211.30	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3125.27	723133.00	721412.15	213.40	1.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3125.53	723464.00	721695.31	213.20	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3126.27	724445.00	722501.24	210.30	2.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3126.72	725059.00	722991.33	206.30	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3127.41	725937.00	723780.80	206.60	1.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3127.73	726322.00	724147.73	208.10	1.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3128.45	727192.00	724970.45	204.50	0.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3128.91	727732.00	725471.44	205.50	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3129.62	728568.00	726244.69	205.10	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3129.93	728921.00	726582.31	205.40	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3131.12	730299.00	727895.19	204.00	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3131.75	730949.00	728589.12	204.10	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3132.13	731329.00	728992.84	204.90	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3132.92	732141.00	729832.16	203.80	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3133.32	732548.00	730257.13	205.90	1.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3134.02	733261.00	730904.18	203.90	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3134.33	733543.00	731188.82	204.40	0.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3135.06	734223.00	731864.00	205.30	0.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3135.52	734604.00	732324.00	207.40	1.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3136.19	735167.00	732994.00	201.70	1.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3136.53	735459.00	733334.00	201.30	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3137.25	736079.00	734018.00	204.10	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3137.72	736460.00	734459.80	209.70	1.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3138.44	737034.00	735138.38	208.10	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3138.73	737266.00	735414.67	211.30	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3139.46	737889.00	736110.16	210.60	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3139.89	738272.00	736519.84	206.50	1.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3140.54	738844.00	737267.48	200.30	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3140.88	739137.00	737665.38	197.80	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3141.66	739842.00	738584.84	185.00	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3142.12	740277.00	739173.92	178.90	0.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3142.85	741021.00	740108.76	178.60	2.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3143.13	741307.00	740467.33	176.60	2.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3143.86	742075.00	741333.41	177.90	2.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3144.32	742558.00	741870.63	182.30	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3144.98	743233.00	742645.36	181.70	2.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3145.32	743589.00	743059.13	180.40	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3146.06	744354.00	743959.68	181.20	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3146.52	744843.00	744519.49	182.00	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3147.48	745836.00	745677.07	180.20	1.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3148.26	746643.00	746617.51	183.10	0.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3148.72	747110.00	747173.41	180.80	0.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3149.35	747759.00	747934.76	180.80	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3149.68	748101.00	748333.56	180.40	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3150.45	748913.00	749257.55	181.40	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3150.91	749401.00	749808.43	182.90	1.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3151.65	750194.00	750704.55	184.80	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3151.91	750476.00	751033.09	184.00	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3152.65	751301.00	751968.18	186.20	1.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3153.12	751830.00	752562.09	190.10	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3153.78	752605.00	753482.76	188.00	0.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3154.10	752978.00	753931.15	196.50	1.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3154.96	753984.00	755118.45	191.50	1.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3155.32	754394.00	755582.96	195.80	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3156.08	755241.00	756563.59	200.50	2.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3156.30	755495.00	756847.45	201.90	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3157.05	756357.00	757779.91	206.00	2.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3157.52	756871.00	758358.72	210.70	2.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3158.15	757561.00	759130.52	215.00	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3158.53	757962.00	759567.63	219.20	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3158.80	758259.00	759878.21	215.30	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3159.00	758475.00	760108.27	217.60	1.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3159.35	758883.00	760510.88	217.90	2.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3159.72	759306.00	760936.49	214.90	1.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3160.47	760202.00	761865.11	208.80	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3160.71	760500.00	762163.15	206.90	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3161.46	761453.00	763106.11	206.10	1.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3161.92	762064.00	763766.28	212.00	0.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3162.55	762871.00	764670.42	216.00	2.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3162.91	763319.00	765187.08	215.00	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3163.20	763686.00	765586.64	225.70	3.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3163.40	763934.00	765851.48	221.40	2.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3163.65	764249.00	766182.55	224.10	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3164.12	764833.00	766804.94	222.60	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3164.84	765735.00	767752.28	216.80	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3165.13	766110.00	768123.66	215.70	0.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3165.86	767096.00	769058.50	213.50	0.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3166.32	767737.00	769647.58	217.70	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3166.97	768655.00	770595.33	222.40	2.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3167.26	769050.00	771020.67	221.40	1.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3167.60	769514.00	771519.33	228.10	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3167.80	769787.00	771812.67	226.00	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3168.05	770133.00	772169.55	231.50	1.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3168.29	770447.00	772474.56	235.60	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3168.50	770724.00	772741.45	238.20	2.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3168.70	770994.00	772995.64	235.60	2.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3168.90	771260.00	773249.82	237.70	2.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3169.24	771708.00	773681.93	229.50	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3169.53	772076.00	774050.49	230.90	1.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3170.25	773043.00	774953.18	230.00	2.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3170.72	773680.00	775540.82	233.30	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3171.35	774548.00	776326.79	236.90	0.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3171.73	775051.00	776788.78	240.50	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3172.46	776037.00	777676.28	238.80	2.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3172.92	776636.00	778235.53	243.90	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3173.65	777556.00	779058.55	246.30	0.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3173.93	777900.00	779373.16	246.10	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3174.65	778798.00	780183.73	245.80	2.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3175.11	779364.00	780714.82	243.90	0.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3175.84	780268.00	781557.64	248.50	0.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3176.13	780612.00	781892.45	242.80	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3176.89	781535.00	782732.28	248.70	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3177.32	782059.00	783203.46	246.20	1.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3178.31	783263.00	784263.41	252.10	2.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3179.05	784147.00	785029.42	246.90	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3179.52	784692.00	785515.95	250.70	0.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3180.15	785413.00	786184.82	253.30	2.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3180.51	785789.00	786567.51	255.40	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3181.26	786587.00	787358.38	260.30	1.30	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3181.73	787076.00	787807.87	256.90	0.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3182.43	787805.00	788477.33	248.10	1.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3182.65	788033.00	788687.73	247.90	2.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3183.46	788887.00	789494.55	229.50	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3183.91	789381.00	789948.64	226.30	3.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3184.57	790153.00	790633.64	218.20	0.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3184.90	790538.00	791056.24	221.30	1.80	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3185.66	791491.00	792029.50	215.40	3.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3186.12	792081.00	792618.58	205.10	2.50	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3186.75	792943.00	793517.00	204.00	1.60	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3186.98	793260.00	793846.67	209.00	1.90	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3187.87	794608.00	795130.18	199.40	1.70	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3188.23	795202.00	795686.55	195.20	2.00	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3188.98	796467.00	796845.64	189.30	2.10	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3189.33	797099.00	797386.55	188.40	1.40	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+3190.08	798512.00	798680.42	191.00	2.20	Dome C (611-800 kyr BP) Luthi et al. (2008) University of Bern Data points between 3112.98 - 3114.68 m were not in original data set but shown in the published figures.
+					
+3061.71	667435.00	667256.80	178.50		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3063.98	670124.00	670241.01	189.00		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3085.78	688035.00	690566.62	234.00		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3086.88	688751.00	691327.29	235.40		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3087.98	689444.00	692134.74	241.00		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3089.08	690155.00	692933.48	235.00		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3091.28	691524.00	694379.24	235.90		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3093.48	692857.00	695834.35	236.30		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3120.01	715603.00	715453.95	223.80		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3122.20	718581.00	717795.21	190.20		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3124.41	721870.00	720473.02	217.00		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3128.68	727458.00	725220.95	203.70		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3133.08	732300.00	730002.15	210.70		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3135.28	734408.00	732084.00	209.60		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3141.82	739986.00	738789.73	198.00		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3146.37	744681.00	744336.95	185.20		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3150.68	749152.00	749532.99	188.80		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3152.88	751552.00	752258.82	193.80		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3155.08	754124.00	755273.28	197.30		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3156.18	755354.00	756692.62	203.40		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3157.28	756605.00	758063.16	214.40		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3158.38	757805.00	759395.08	225.50		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3159.48	759027.00	760660.42	216.60		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3160.58	760338.00	762001.71	214.90		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3161.68	761745.00	763421.84	213.00		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3162.78	763158.00	765000.51	221.30		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3163.88	764529.00	766487.12	226.50		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3164.98	765917.00	767931.57	216.10		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3167.18	768940.00	770903.33	227.50		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3168.28	770434.00	772461.85	233.90		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3169.38	771888.00	773859.85	226.90		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3170.48	773353.00	775240.75	238.60		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3171.58	774854.00	776606.41	240.10		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3172.68	776322.00	777943.75	245.90		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3173.78	777719.00	779204.62	246.70		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3174.88	779076.00	780449.27	243.80		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3177.08	781771.00	782940.48	251.20		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3178.18	783110.00	784128.84	252.50		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3179.28	784409.00	785267.51	248.40		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3180.38	785654.00	786429.32	255.30		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3181.48	786819.00	787568.78	256.60		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3182.58	787957.00	788620.78	246.40		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3183.68	789126.00	789716.55	239.30		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3185.88	791767.00	792311.24	217.30		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3186.98	793255.00	793846.67	224.20		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3188.08	794949.00	795454.73	206.70		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
+3190.28	798893.00	799032.30	193.60		Dome C (611-800 kyr BP) Luthi et al. (2008) LGGE Grenoble
